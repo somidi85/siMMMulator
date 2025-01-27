@@ -17,5 +17,6 @@ Imports:
     rlang, 
     data.table,
     msm, 
-    ggplot2
+    ggplot2,
+    lubridate
 RoxygenNote: 7.1.2
